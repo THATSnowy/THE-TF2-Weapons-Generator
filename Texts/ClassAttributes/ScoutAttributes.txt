@@ -1,0 +1,192 @@
+[-] ##(percentage) damage penalty
+[+] +##(percentage) damage bonus
+[-] -##(percentage) clip size
+[+] +##(percentage) clip size
+[-] ##(inverted_percentage) slower firing speed
+[+] +##(inverted_percentage) faster firing speed
+[-] No random critical hits
+[+] On Hit: Gain up to +##(additive) health
+[-] On Hit: -##(additive) health
+[+] On Hit: Gain up to +##(additive) health per attack
+[+] On Hit: +##(additive_percentage) damage bonus
+[+] On Hit: Bleed for ##(additive) seconds
+[+] On Hit: One target at a time is Marked-For-Death, causing all damage taken to be mini-crits
+[+] On Hit: Builds Boost. Run speed increased with Boost
+[-] Boost reduced on air jumps
+[-] Boost reduced when hit
+[+] On Hit: Builds Hype
+[-] Hype Decays Over Time.
+[+] Alt-Fire: Launches a ball that slows opponents
+[-] -##(percentage) damage vs non-stunned players
+[+] Alt-Fire: Launches a festive ornament that shatters causing bleed
+[+] Throw at your enemies to make them bleed! Long distance hits reduce recharge time
+[+] 100% critical hit vs stunned players
+[+] 100% minicrits vs burning players
+[+] 100% critical hit vs burning players
+[+] 100% critical hit vs non-burning players
+[+] 100% critical hit vs wet players
+[+] Mini-crits targets when fired at their back from close range
+[-] Disables double jump
+[+] Grants Triple Jump while deployed. Melee attacks mini-crit while airborne.
+[+] +##(percentage) greater jump height when active
+[+] +##(percentage) faster move speed on wearer
+[-] -##(inverted_percentage) slower move speed on wearer
+[+] +##(additive) capture rate on wearer
+[+] On Kill: A small health pack is dropped
+[-] On Miss: Hit yourself. Idiot.
+[+] Gain a speed boost on kill
+[+] On Hit: Gain a speed boost
+[+] Gain a speed boost when you hit an enemy player
+[+] +##(percentage) increased melee attack range
+[+] +##(inverted_percentage) faster melee attack speed
+[+] Fires a wide, fixed shot pattern
+[+] Clip size increased on kill
+[-] Weapon spread increases as health decreases
+[+] +##(percentage) max primary ammo on wearer
+[-] -##(percentage) max primary ammo on wearer
+[+] +##(percentage) max secondary ammo on wearer
+[-] -##(percentage) max secondary ammo on wearer
+[+] +##(percentage) max misc ammo on wearer
+[-] ##(percentage) slower reload time
+[+] +##(inverted_percentage) faster reload time
+[-] -##(percentage) less accurate
+[+] +##(inverted_percentage) more accurate
+[-] -##(percentage) health from healers on wearer
+[+] +##(percentage) health from healers on wearer
+[+] +##(percentage) health from packs on wearer
+[-] -##(percentage) health from packs on wearer
+[+] +##(additive) max health on wearer
+[-] -##(additive) max health on wearer
+[-] -##(percentage) damage from ranged sources while active
+[-] +##(percentage) damage from melee sources while active
+[+] This weapon deploys +##(inverted_percentage) faster
+[-] This weapon holsters ##(percentage) slower
+[-] This weapon deploys ##(inverted_percentage) slower
+[+] +##(inverted_percentage) faster weapon holstering
+[-] ##(percentage) longer weapon switch
+[+] +##(inverted_percentage) faster weapon switch
+[-] Wearer cannot carry the intelligence briefcase or PASS Time JACK
+[+] On Kill: ##(additive) seconds of 100% critical chance
+[=] On Kill: +50 health on nearby teammates
+[=] On Kill: +10% Crit Chance on nearby teammates
+[+] On Kill: Gain ##(additive)% of base health on kill
+[+] +##(additive) health restored on kill
+[+] +##(additive) health regenerated per second on wearer
+[-] -##(additive) health drained per second on wearer
+[+] +##(percentage) natural regen rate
+[-] -##(percentage) natural regen rate
+[+] +##(inverted_percentage) critical hit damage resistance on wearer
+[-] +##(percentage) critical hit damage vulnerability on wearer
+[+] +##(inverted_percentage) explosive damage resistance on wearer
+[-] +##(percentage) explosive damage vulnerability on wearer
+[+] +##(inverted_percentage) bullet damage resistance on wearer
+[-] +##(percentage) bullet damage vulnerability on wearer
+[+] +##(inverted_percentage) fire damage resistance on wearer
+[-] +##(percentage) fire damage vulnerability on wearer
+[+] +##(inverted_percentage) sentry damage resistance on wearer
+[+] +##(percentage) damage vs buildings
+[-] -##(percentage) damage vs players
+[-] -##(percentage) damage penalty vs buildings
+[-] +##(percentage) damage to self
+[-] -##(percentage) movement speed on targets
+[-] +##(percentage) damage vulnerability on wearer
+[-] -##(percentage) maximum overheal on wearer
+[+] Attacks pierce damage resistance effects and bonuses
+[+] Projectiles penetrate enemy players
+[+] Does not require ammo
+[+] No reload necessary
+[-] Cannot be crit boosted
+[-] -##(additive) damage penalty
+[=] -##(additive) damage penalty
+[+] -##(additive) damage penalty
+[+] On Hit Spy: Reveal cloaked Spy
+[+] On Hit Spy: Reveal disguised Spy
+[+] When backstabbed: Jarate attacker
+[+] Stuns enemies who are also wielding this weapon
+[+] On Hit: If enemy's belt is at or above eye level, stun them for ##(additive) seconds
+[-] On Hit by Fire: Fireproof for 1 second and Afterburn immunity for ##(additive) seconds
+[+] Always critical hit from behind
+[-] Critical hits do no damage
+[+] When the medic healing you is killed you gain 2 revenge crits
+[+] When the medic healing you is killed you gain mini-crit boost for ##(additive) seconds
+[+] While a medic is healing you, this weapon's damage is increased by +##(percentage)
+[-] While not being healed by a medic, your weapon switch time is ##(percentage) longer
+[-] Blocks healing while in use
+[+] +##(percentage) ÜberCharge rate for the medic healing you. This effect does not work in the respawn room
+[+] +##(inverted_percentage) faster reload time while being healed
+[+] When the medic healing you is killed the killer becomes Marked-For-Death
+[-] -##(additive) rage lost on hit
+[+] +##(additive) rage gained on hit
+[+] Gains a damage bonus as rage increases, up to +##(percentage)
+[-] -##(percentage) reduction in push force taken from damage
+[+] Ammo collected from ammo boxes becomes health
+[+] Holds a maximum of ##(additive) charges
+[+] Currently holds ##(additive) charges
+[+] Each charge lasts ##(additive) seconds
+[+] Wearer never takes falling damage
+[+] Overrides the projectile fired from the weapon. Takes values from 1 to 26, each representing a different projectile, and not all projectiles work on all weapons
+[+] Killing an enemy with a critical hit will dismember your victim. Painfully.
+[+] Consumable: Instantly teleport to spawn
+[+] Unlimited use
+[+] Consumable: Instantly refill all weapon clips and ammo
+[+] Bullets destroy rockets and grenades in-flight. Increased accuracy and frequency per-level.
+[+] Accuracy scales damage
+[+] +##(percentage) bonus currency from packs
+[+] Explode spectacularly on death
+[-] Unable to see enemy health
+[+] On Hit: Victim loses up to -##(additive)% Medigun charge
+[+] On Hit: Victim loses up to -##(additive)% cloak
+[-] Jingle all the way
+[+] Imbued with an ancient power
+[+] Custom Texture
+[+] Crafted by ##(account_id)
+[=] Hire Date: ##(date)
+[=] Date Received: ##(date)
+[+] Gift from: ##(account_id)
+[+] Crate Series # ##(additive)
+[-] Always Tradable
+[=] Noise Maker
+[+] This is a special Halloween ##(additive) item
+[-] Tradable After: ##(date)
+[=] Purchased: Not Tradable, Marketable, or Usable in Crafting
+[=] Not Tradable or Marketable
+[=] Not Tradable, Marketable, Usable in Crafting, or Gift Wrappable
+[-] Usable After: ##(date)
+[=] This item will expire on ##(date).
+[=] Given to valuable Community Contributors
+[=] Medal no. ##(additive)
+[=] ★ Unusual Effect: ##(particle_index)
+[=] I made this!
+[=] Item tint color code: ##(additive)
+[=] Sets weapon mode # ##(additive)
+[+] Winner: ##(additive)s2
+[+] A perpetual bond of commitment between ##(account_id)
+[+] and ##(account_id), forever and ever and ever. XoXoX
+[+] Reduces mystery solving time by up to -##(percentage)
+[+] Reduces chance of hunger by up to -##(percentage)
+[+] Squad surplus claimed by: ##(account_id)
+[+] Witnessed the ##(additive) inferno
+[+] Killed Merasmus at level ##(additive).
+[+] Rewarded for participating in the 2014 Summer Adventure.
+[+] Duck XP Level: ##(additive)
+[+] Duck Power: ##(additive) / 5
+[+] Early Supporter of End of the Line Community Update
+[+] Duckstreaks Active
+[=] Team Colored Decorated Weapon
+[=] Items Traded in: ##(additive)
+[+] Voices From Below
+[+] Pumpkin Bombs
+[+] Halloween Fire
+[+] Exorcism
+[+] Pages of Tumidum: ##(additive)
+[+] Pages of Gratanter: ##(additive)
+[+] Pages of Audere: ##(additive)
+[+] Pages of Congeriae: ##(additive)
+[+] Pages of Veteris: ##(additive)
+[+] Killstreaks Active
+[=] Festivized
+[-] +##(additive) degrees random projectile deviation
+[+] Leave a Calling Card on your victims.
+[+] +##(additive_percentage) ammo regenerated every 5 seconds on wearer
+[+] +##(percentage) faster taunt speed on wearer
+[-] -##(percentage) healing effect
