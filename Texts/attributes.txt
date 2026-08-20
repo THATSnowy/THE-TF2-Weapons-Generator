@@ -1,0 +1,530 @@
+[-] ##(percentage) damage penalty
+[+] +##(percentage) damage bonus
+[-] -##(percentage) clip size
+[+] +##(percentage) clip size
+[-] ##(inverted_percentage) slower firing speed
+[+] +##(inverted_percentage) faster firing speed
+[-] -##(percentage) heal rate
+[+] +##(percentage) heal rate
+[-] -##(percentage) ÜberCharge rate
+[+] +##(percentage) ÜberCharge rate
+[+] +##(percentage) max overheal
+[-] ##(inverted_percentage) shorter overheal time
+[+] +##(inverted_percentage) longer overheal time
+[+] Overheal bonus doesn't decay
+[-] No random critical hits
+[+] On Hit: Gain up to +##(additive) health
+[+] On Hit: +##(additive_percentage) ÜberCharge added
+[=] ÜberCharge grants 100% critical chance
+[+] On Hit: +##(additive_percentage) damage bonus
+[+] 100% critical hit vs burning players
+[-] -##(percentage) damage vs non-burning players
+[-] No critical hits vs non-burning players
+[-] No compression blast
+[+] 100% critical hits from behind
+[+] +##(additive) max health on wearer
+[-] No random critical hits
+[=] On Kill: +50 health on nearby teammates
+[=] On Kill: +10% Crit Chance on nearby teammates
+[+] On Kill: ##(additive) seconds of 100% critical chance
+[+] On Hit: ##(additive_percentage) chance to slow target
+[=] Cloak Type: Feign Death. Leave a fake corpse on taking damage and temporarily gain invisibility, speed, and damage resistance.
+[-] +##(percentage) cloak drain rate
+[+] +##(percentage) cloak regen rate
+[-] ##(percentage) less accurate
+[+] Alt-Fire: Launches a ball that slows opponents
+[-] -##(percentage) damage vs non-stunned players
+[+] No move speed penalty from zoom
+[+] +##(percentage) charge rate
+[-] No headshots
+[+] Knockback on the target and shooter
+[+] +##(percentage) bullets per shot
+[-] ##(percentage) zoom reduction
+[-] No zoom or damage charge
+[=] Cloak Type: Motion Sensitive. Alt-fire: Turn invisible. Cannot attack while invisible. Bumping into enemies will make you slightly visible to enemies. Cloak drain rate based on movement speed.
+[-] Disables double jump
+[+] Absorbs ##(percentage) damage while cloaked
+[+] Crits on headshot
+[+] Blocks a single backstab attempt
+[+] Wearer cannot ignite
+[-] ##(inverted_percentage) slower move speed on wearer
+[=] Coated enemies take mini-crits. Can be used to extinguish fire
+[+] +##(additive) health regenerated per second on wearer
+[+] +##(percentage) self damage force
+[-] -##(percentage) self damage force
+[+] +##(inverted_percentage) fire damage resistance on wearer
+[-] +##(percentage) fire damage vulnerability on wearer
+[+] +##(inverted_percentage) critical hit damage resistance on wearer
+[-] +##(percentage) critical hit damage vulnerability on wearer
+[+] +##(inverted_percentage) explosive damage resistance on wearer
+[-] +##(percentage) explosive damage vulnerability on wearer
+[+] +##(inverted_percentage) bullet damage resistance on wearer
+[-] +##(percentage) bullet damage vulnerability on wearer
+[+] +##(additive) capture rate on wearer
+[-] -##(percentage) health from healers on wearer
+[+] +##(percentage) health from healers on wearer
+[+] +##(percentage) afterburn damage bonus
+[-] ##(percentage) afterburn damage penalty
+[+] +##(percentage) afterburn duration
+[-] -##(percentage) afterburn duration
+[+] +##(percentage) faster move speed while deployed
+[+] +##(percentage) max primary ammo on wearer
+[-] -##(percentage) max primary ammo on wearer
+[+] +##(percentage) max secondary ammo on wearer
+[-] -##(percentage) max secondary ammo on wearer
+[+] +##(percentage) max metal on wearer
+[-] -##(percentage) max metal on wearer
+[-] -##(percentage) cloak duration
+[+] +##(inverted_percentage) cloak duration
+[+] +##(percentage) cloak regeneration rate
+[-] -##(percentage) cloak regeneration rate
+[-] ##(percentage) slower spin up time
+[+] +##(inverted_percentage) faster spin up time
+[+] +##(additive) max stickybombs out
+[-] -##(additive) max stickybombs out
+[+] +##(percentage) faster power charge
+[-] ##(inverted_percentage) slower power charge
+[+] Construction hit speed boost increased by ##(percentage)
+[-] Construction hit speed boost decreased by ##(inverted_percentage)
+[+] +##(percentage) faster repair rate
+[-] ##(inverted_percentage) slower repair rate
+[-] ##(percentage) slower reload time
+[+] +##(inverted_percentage) faster reload time
+[-] On Hit: -##(additive) health
+[+] +##(percentage) explosion radius
+[-] -##(percentage) explosion radius
+[+] +##(percentage) projectile range
+[-] -##(percentage) projectile range
+[+] +##(percentage) projectile speed
+[-] -##(percentage) projectile speed
+[-] -##(inverted_percentage) max overheal
+[+] +##(inverted_percentage) more accurate
+[+] +##(percentage) faster move speed on wearer
+[+] +##(percentage) health from packs on wearer
+[-] -##(percentage) health from packs on wearer
+[+] On Hit: Gain up to +##(additive) health
+[-] On Hit: -##(additive) health
+[+] +##(additive_percentage) ammo regenerated every 5 seconds on wearer
+[+] +##(additive) metal regenerated every 5 seconds on wearer
+[+] Mini-crits targets launched airborne by explosions, grapple hooks or rocket packs
+[+] Damage increases as the user becomes injured
+[+] -##(percentage) splash damage fall off
+[+] Detonates stickybombs near the crosshair and directly under your feet
+[-] ##(additive) sec slower bomb arm time
+[+] Able to destroy enemy stickybomb
+[+] +##(percentage) speed boost while active weapon
+[-] Replaces the Sentry with a Mini-Sentry
+[-] -##(additive) max health on wearer
+[+] +##(additive) sec faster bomb arm time
+[-] Launched bombs shatter on surfaces
+[=] When weapon is active:
+[-] ##(additive) health drained per second on wearer
+[+] +##(percentage) natural regen rate
+[-] -##(percentage) natural regen rate
+[=] Given to valuable Community Contributors
+[=] Medal no. ##(additive)
+[=] ★ Unusual Effect: ##(particle_index)
+[+] -##(percentage) blast damage from rocket jumps
+[+] Gain 2 revenge crits for each sentry kill and 1 for each sentry assist when your sentry is destroyed
+[+] +##(percentage) damage vs buildings
+[-] -##(percentage) damage vs players
+[+] Adds +50 max health for 30 seconds
+[+] +##(additive) max health on wearer
+[=] I made this!
+[=] Item tint color code: ##(additive)
+[=] Hire Date: ##(date)
+[=] Sets weapon mode # ##(additive)
+[=] ##(additive) damage penalty
+[+] Damage removes Sappers
+[=] Wrench no. ##(additive)
+[+] ##(percentage) metal reduction in building cost
+[+] On Hit: Bleed for ##(additive) seconds
+[+] Imbued with an ancient power
+[+] Custom Texture
+[=] Not Tradable or Marketable
+[+] Upon a successful backstab against a human target, you rapidly disguise as your victim
+[-] Wearer cannot disguise
+[+] Silent Killer: No attack noise from backstabs
+[-] ##(additive) sec slower disguise speed
+[+] +##(additive) cloak on kill
+[-] ##(additive) sec longer cloak blink time
+[+] Reduced decloak sound volume
+[-] ##(percentage) less flame spread area
+[+] +##(percentage) more flame spread area
+[-] ##(percentage) less flame distance
+[+] +##(percentage) more flame distance
+[=] Airblast can now be charged, which will push enemies further
+[+] +##(additive) cloak on hit
+[+] Immune to fire damage while disguised
+[+] +##(inverted_percentage) sentry damage resistance on wearer
+[-] +##(percentage) airblast cost
+[+] -##(percentage) airblast cost
+[=] Purchased: Not Tradable, Marketable, or Usable in Crafting
+[-] +##(percentage) flamethrower ammo consumed per second
+[+] -##(percentage) flamethrower ammo consumed per second
+[+] On Scoped Hit: Apply Jarate for 2 to ##(additive) seconds based on charge level. Nature's Call: Scoped headshots always mini-crits and reduce the remaining cooldown of Jarate by 1 second.
+[+] The wearer cannot be killed by headshots
+[-] ##(percentage) longer weapon switch
+[+] +##(inverted_percentage) faster weapon switch
+[+] Crits whenever it would normally mini-crit
+[+] +##(additive) health restored on kill
+[+] No self inflicted blast damage taken
+[+] On Hit: Slow target movement by 40% for ##(additive)s
+[-] ##(percentage) slower move speed while deployed
+[=] Date Received: ##(date)
+[+] Gift from: ##(account_id)
+[+] Crate Series # ##(additive)
+[+] On death up to ##(additive)% of your stored ÜberCharge is retained
+[+] +##(additive) health regenerated per second on wearer
+[-] ##(additive) health drained per second on wearer
+[-] Always Tradable
+[=] Noise Maker
+[+] This is a special Halloween ##(additive) item
+[+] This is a special Halloween ##(additive) item
+[+] +##(inverted_percentage) faster weapon holstering
+[+] Alt-Fire: Applies a healing effect to all nearby teammates
+[+] +##(percentage) faster taunt speed on wearer
+[+] +##(additive) sec increase in charge duration
+[+] On Kill: A small health pack is dropped
+[-] On Miss: Hit yourself. Idiot.
+[+] -##(percentage) damage from ranged sources while active
+[-] +##(percentage) damage from melee sources while active
+[-] +##(percentage) damage to self
+[+] On Hit: target is engulfed in flames
+[+] 100% minicrits vs burning players
+[-] Tradable After: ##(date)
+[+] On Backstab: Absorbs the health from your victim
+[+] On Hit: One target at a time is Marked-For-Death, causing all damage taken to be mini-crits
+[+] -##(additive) damage penalty
+[+] On Kill: Gain ##(additive)% of base health on kill
+[+] On Scoped Bodyshot: Rifle charge rate increased by ##(percentage)
+[-] On Scoped Miss: Rifle charge rate decreased by ##(percentage)
+[+] +##(percentage) increase in damage when health <50% of max
+[-] ##(percentage) decrease in damage when health >50% of max
+[-] Honorbound: Once drawn sheathing deals 50 damage to yourself unless it kills.
+[+] Custom Texture
+[+] Crafted by ##(account_id)
+[+] When the medic healing you is killed you gain 2 revenge crits
+[=] ÜberCharge increases healing to 300% and grants immunity to movement-impairing effects
+[+] When the medic healing you is killed you gain mini-crit boost for ##(additive) seconds
+[+] While a medic is healing you, this weapon's damage is increased by +##(percentage)
+[-] While not being healed by a medic, your weapon switch time is ##(percentage) longer
+[+] Move speed increases as the user becomes injured
+[-] Blocks healing while in use
+[+] On Scoped Headshot: Rifle charge rate increased by +##(percentage)
+[+] Silent Killer: No barrel spin sound
+[+] +##(percentage) ÜberCharge rate for the medic healing you. This effect does not work in the respawn room
+[+] +##(inverted_percentage) faster reload time while being healed
+[-] ##(percentage) slower reload time
+[+] When the medic healing you is killed the killer becomes Marked-For-Death
+[-] ##(additive) rage lost on hit
+[+] +##(additive) rage gained on hit
+[+] Gains a damage bonus as rage increases, up to +##(percentage)
+[+] +##(percentage) increase in turning control while charging
+[+] Can deal charge impact damage at any range
+[+] +##(percentage) increase in charge impact damage
+[+] +##(percentage) increase in charge recharge rate
+[+] Grants Triple Jump while deployed. Melee attacks mini-crit while airborne.
+[+] On Hit Teammate: Boosts both players' speed for several seconds
+[+] ##(percentage) reduction in push force taken from damage
+[-] ##(additive) sec increase in time to cloak
+[+] +##(percentage) airblast push force
+[+] Ammo collected from ammo boxes becomes health
+[+] Deals 3x falling damage to the player you land on
+[=] Item tint color code: ##(additive)
+[+] Winner: ##(additive)s2
+[+] +##(percentage) increased melee attack range
+[+] Projectiles penetrate enemy players
+[+] Deals crits while the wielder is rocket jumping
+[-] Base charge rate decreased by ##(percentage)
+[+] Allows you to see enemy health
+[+] Holds a maximum of ##(additive) charges
+[+] Currently holds ##(additive) charges
+[+] Each charge lasts ##(additive) seconds
+[+] Consumable: Become Crit Boosted for 5 seconds (and double your sentry's firing speed)
+[+] Consumable: Become Übercharged for 5 seconds (and shield your sentry from damage)
+[+] Wearer never takes falling damage
+[+] Teleporters can be used in both directions
+[+] +##(inverted_percentage) increase in recharge rate
+[+] +##(percentage) max misc ammo on wearer
+[+] Overrides the projectile fired from the weapon. Takes values from 1 to 26, each representing a different projectile, and not all projectiles work on all weapons
+[+] Does not require ammo
+[+] Alt-Fire: A charged shot that mini-crits players, sets them on fire, and disables buildings for 4 sec
+[+] Projectile penetrates enemy targets
+[-] Deals only 20% damage to buildings
+[+] Projectile cannot be deflected
+[+] +##(percentage) max building health
+[+] +##(percentage) Sentry Gun damage bonus
+[-] Cannot be crit boosted
+[+] Gives one guaranteed critical hit for each building destroyed with your sapper attached or backstab kill
+[-] Cannot fire unless zoomed
+[-] Per Shot: -##(additive) ammo
+[+] On Hit: damage dealt is returned as ammo
+[+] Alt-Fire: Launches a projectile-consuming energy ball. Costs 65 metal.
+[-] Uses metal for ammo
+[=] This item will expire on ##(date).
+[+] On Full Charge: +##(percentage) damage per shot
+[-] Fires tracer rounds
+[-] No headshots when not fully charged
+[+] No reload necessary
+[+] On Full Charge: Projectiles penetrate players
+[+] Killing an enemy with a critical hit will dismember your victim. Painfully.
+[+] Consumable: Instantly teleport to spawn
+[+] Unlimited use
+[+] -##(percentage) movement speed on targets
+[+] Über duration increased ##(additive) seconds
+[+] Consumable: Instantly refill all weapon clips and ammo
+[+] +##(inverted_percentage) faster reload time
+[+] +##(percentage) buff duration
+[+] Increased robot Sapper radius and duration
+[+] +##(inverted_percentage) faster build speed
+[=] ##(additive) damage penalty
+[+] Bullets destroy rockets and grenades in-flight. Increased accuracy and frequency per-level.
+[+] Accuracy scales damage
+[+] +##(percentage) bonus currency from packs
+[+] +##(percentage) greater jump height when active
+[+] Consumable: Instantly upgrade all buildings to max level
+[+] ##(percentage) reduction in airblast vulnerability
+[+] Explode spectacularly on death
+[+] +##(percentage) clip size
+[-] Unable to see enemy health
+[+] On Hit: Victim loses up to ##(additive)% Medigun charge
+[+] On Hit: Victim loses up to ##(additive)% cloak
+[+] On Hit Spy: Reveal cloaked Spy
+[+] On Hit Spy: Reveal disguised Spy
+[+] When backstabbed: Jarate attacker
+[+] +##(inverted_percentage) sentry firing speed
+[+] +##(percentage) sentry range
+[+] +##(percentage) dispenser range
+[+] Alt-Fire: Launches a festive ornament that shatters causing bleed
+[-] Backstab turns victim to ice
+[+] Build +##(additive) additional disposable-sentry
+[+] Press your reload key to choose to teleport to spawn or your exit teleporter
+[-] Cannot carry buildings
+[+] Stuns enemies who are also wielding this weapon
+[-] Per Shot Missed: -##(additive) ammo
+[-] No airblast
+[+] +##(percentage) buff duration
+[+] Critical hit forces victim to laugh
+[-] Melts in fire, regenerates in ##(additive) seconds and by picking up ammo
+[+] All players connected via Medigun beams are hit
+[+] On Hit by Fire: Fireproof for 1 second and Afterburn immunity for ##(additive) seconds
+[+] Always critical hit from behind
+[-] Critical hits do no damage
+[-] Jingle all the way
+[+] On Hit: If enemy's belt is at or above eye level, stun them for ##(additive) seconds
+[+] Alt-Fire: Extinguish teammates to gain guaranteed critical hits
+[+] Build 'Mmmph' by dealing damage. Alt-Fire on full 'Mmmph': Taunt to gain crits for several seconds. Invulnerable while 'Mmmph' taunting.
+[+] On Hit: Force enemies to laugh who are also wearing this item
+[+] A perpetual bond of commitment between ##(account_id)
+[+] and ##(account_id), forever and ever and ever. XoXoX
+[-] Usable After: ##(date)
+[+] Generate Rage by dealing damage. When fully charged, press the Special-Attack key to activate knockback
+[+] No flinching when aiming and fully charged
+[+] Knockback reduced by +##(inverted_percentage) when aiming
+[-] ##(percentage) slower move speed when aiming
+[+] Gain Focus on kills and assists
+[+] Shots go through multiple enemies
+[+] Headshots deal an extra +##(percentage) damage
+[+] Reduces mystery solving time by up to ##(percentage)
+[-] -##(percentage) damage on body shot
+[+] Press 'Reload' to activate focus. In Focus: +25% faster charge and no unscoping
+[+] +##(inverted_percentage) faster firing speed
+[+] Increased headshot explosion radius and damage to nearby enemies
+[+] +##(inverted_percentage) faster melee attack speed
+[+] Bullets penetrate +##(additive) enemies
+[+] Increase backstab damage against Giant Robots by +##(additive)
+[-] Wearer cannot carry the intelligence briefcase or PASS Time JACK
+[+] Reduces chance of hunger by up to ##(percentage)
+[+] Cannot be backstabbed
+[+] Squad surplus claimed by: ##(account_id)
+[+] Using your Power Up Canteen will apply the same bonus effect to your heal target
+[+] 100% critical hit vs disguised players
+[+] 100% critical hit vs non-burning players
+[+] On Kill: Burst into joyous laughter
+[+] +##(percentage) damage bonus while disguised
+[-] +##(additive) degrees random projectile deviation
+[-] +##(percentage) damage vulnerability on wearer
+[+] Hold Fire to load up to three rockets. Release Fire to unleash the barrage
+[-] You are Marked-For-Death while active, and for short period after switching weapons
+[+] Flare knocks back target on hit and explodes when it hits the ground. Increased knock back on burning players
+[-] Overloading the chamber will cause a misfire
+[+] On Hit: Builds Boost. Run speed increased with Boost
+[-] Boost reduced on air jumps
+[+] Witnessed the ##(additive) inferno
+[-] No ammo from dispensers when active
+[-] Only visible in Pyroland
+[-] -##(percentage) clip size
+[+] +##(percentage) sapper damage bonus
+[-] ##(percentage) sapper damage penalty
+[+] +##(additive) health regenerated per second for each active sapper
+[+] +##(percentage) sapper health bonus
+[-] ##(percentage) sapper health penalty
+[+] Creates a ring of flames while spun up
+[-] Consumes an additional ##(additive) ammo per second while spun up
+[+] Reverses enemy building construction
+[-] ##(percentage) sapper damage penalty
+[+] Throw at your enemies to make them bleed! Long distance hits reduce recharge time
+[+] 100% critical hit vs stunned players
+[+] 100% critical hit vs wet players
+[+] +##(additive) clip size
+[-] Disables double jump
+[+] On Equip: Visit Pyroland
+[+] Killed Merasmus at level ##(additive).
+[+] Sentry build speed increased by +##(percentage).
+[+] Increases teleporter build speed by +##(percentage).
+[=] Cannonballs have a fuse time of 1 second; fuses can be primed to explode earlier by holding down the fire key.
+[-] Cannonballs do not explode on impact.
+[+] Alt-Fire: Use ##(additive) metal to pick up your targeted building from long range.
+[-] -##(percentage) damage on contact with surfaces.
+[+] Generate building rescue energy on damage.
+[-] Self mark for death when hauling buildings.
+[+] Press your reload key to cycle through resist types. While healing, provides you and your target with a constant 10% resistance to the selected damage type.
+[+] Fires a special bolt that can repair friendly buildings
+[+] +##(percentage) projectile speed
+[+] +##(percentage) damage bonus
+[+] Cannonballs push players back on impact
+[-] -##(percentage) Overheal build rate.
+[+] +25% more overheal, +50% longer duration per point
+[+] Syringes deliver a highly concentrated dose of Mad Milk. Duration increases per hit to a max of 4 seconds.
+[+] +15% rocket speed per point. On direct hits: rocket does maximum damage, stuns target, and blast radius increased +15% per point.
+[+] +##(percentage) faster move speed on wearer
+[+] +##(additive) health regenerated per second on wearer
+[+] +##(inverted_percentage) critical hit damage resistance on wearer
+[+] +##(inverted_percentage) fire damage resistance on wearer
+[+] +25% heal rate for patient, +25% faster revive rate, and +25% self heal rate, per point
+[+] Build energy by healing teammates. When fully charged, press the Special-Attack key to deploy a frontal projectile shield.
+[-] +##(percentage) bullet damage vulnerability on wearer
+[+] +##(additive) max health on wearer
+[+] +##(percentage) greater jump height when active
+[-] ##(percentage) increase in push force taken from damage
+[+] +##(percentage) bonus healing from all sources
+[+] Immune to the effects of afterburn.
+[-] Hype Decays Over Time.
+[+] Extra effects when taunting.
+[-] ##(percentage) reduction in airblast vulnerability
+[-] ##(percentage) increase in push force taken from damage
+[-] Increase in push force taken from damage and airblast
+[+] Leave a Calling Card on your victims.
+[+] This weapon deploys +##(inverted_percentage) faster
+[+] Revive Teammates
+[+] +##(percentage) increased air control.
+[+] On Kill: Gain Mini-crits for ##(additive) seconds.
+[-] No metal from dispensers when active.
+[+] Mini-crits targets when fired at their back from close range
+[+] Increased attack speed and smaller blast radius while blast jumping
+[+] Fires 3 barrages while explosive jumping
+[+] Charge and fire shots independent of zoom
+[+] Zoom does not affect charge
+[+] 100% critical hits burning players from behind. Mini-crits burning players from the front.
+[+] Full turning control while charging
+[+] -##(percentage) blast damage from rocket jumps
+[+] Clip size increased on kill
+[-] Fires tracer rounds
+[+] Fire rate increases as health decreases
+[+] Rewarded for participating in the 2014 Summer Adventure.
+[-] Stickybombs fizzle ##(additive) seconds after landing
+[+] Max charge time decreased by ##(inverted_percentage)
+[+] Grenades have very little bounce and roll
+[-] Taking damage while shield charging reduces remaining charging time
+[-] -##(percentage) damage on grenades that explode on timer
+[+] Increased Melee damage against Isolated Merc Set
+[-] Increased Nostromo Napalmer damage taken from Isolated Merc Set
+[+] Increased Nostromo Napalmer damage against Isolationist Pack Set
+[-] Increased Melee damage taken from Isolationist Pack Set
+[+] Duck XP Level: ##(additive)
+[+] Duck Power: ##(additive) / 5
+[+] Early Supporter of End of the Line Community Update
+[+] Duckstreaks Active
+[+] Hold fire to load up to 4 shells
+[-] Weapon spread increases as health decreases
+[-] -##(percentage) cloak meter when Feign Death is activated
+[+] Up to +##(percentage) damage based on charge
+[-] No cloak meter from ammo boxes when invisible
+[-] -##(percentage) cloak meter from ammo boxes
+[-] ##(inverted_percentage) less metal from pickups and dispensers
+[-] Boost reduced when hit
+[-] ##(inverted_percentage) less healing from all sources
+[+] 100% critical hit vs burning players
+[+] Gain a speed boost on kill
+[+] On Hit: Gain a speed boost
+[+] +##(percentage) damage resistance when below 50% health and spun up
+[-] -##(percentage) ÜberCharge rate on Overhealed patients
+[-] ##(percentage) less healing from Medic sources
+[+] On Hit: Gain up to +##(additive) health per attack
+[=] Team Colored Decorated Weapon
+[=] Items Traded in: ##(additive)
+[-] This weapon holsters ##(percentage) slower
+[-] This weapon deploys ##(inverted_percentage) slower
+[-] ##(additive) sec decrease in charge duration
+[-] ##(percentage) damage penalty vs buildings
+[-] ##(percentage) decrease in charge impact damage
+[=] Not Tradable, Marketable, Usable in Crafting, or Gift Wrappable
+[+] Melee hits refill +##(additive_percentage) of your charge meter.
+[+] Secondary fire when charged grants mini-crits for ##(additive) seconds.
+[+] Dealing damage fills charge meter.
+[=] This Weapon has a large melee range and deploys and holsters slower
+[+] Ammo boxes collected also give Charge
+[+] Extinguishing teammates restores +##(additive) health
+[+] Extinguishing teammates reduces cooldown by ##(percentage)
+[+] -##(percentage) fuse time on grenades
+[+] +##(percentage) faster move speed on wearer (shield required)
+[+] +##(percentage) increased damage to your sentry's target
+[+] -##(percentage) metal cost when constructing or upgrading teleporters
+[+] On Hit: Builds Hype
+[+] +##(inverted_percentage) fire damage resistance while deployed
+[+] +##(percentage) damage bonus vs burning players
+[+] Attacks pierce damage resistance effects and bonuses
+[-] +##(percentage) damage vulnerability while active
+[-] Revenge crits are lost on death
+[-] -##(percentage) maximum overheal on wearer
+[+] Collect the organs of your victims
+[-] Successive shots become less accurate
+[+] Fires a wide, fixed shot pattern
+[+] Collect the organs of people you hit
+[+] +##(percentage) increased air control when blast jumping.
+[+] Immune to push force from damage and airblast when spun up
+[-] Normal disguises require (and consume) a full cloak meter
+[-] Spawning and resupply do not affect the Gas meter
+[+] +##(percentage) faster move speed on wearer
+[-] +##(percentage) damage vulnerability on wearer
+[-] -##(percentage) maximum overheal on wearer
+[-] -##(percentage) health from healers on wearer
+[-] Maximum health is drained while item is active
+[-] Critical damage is affected by range
+[-] Minicrits whenever it would normally crit
+[+] Push enemies back when you land (force and radius based on velocity)
+[+] Stun enemies when you land
+[+] Able to re-launch while already in-flight
+[=] +##(inverted_percentage) faster recharge rate
+[=] Ignited enemies explode
+[-] -##(percentage) healing effect
+[+] Gain a speed boost when you hit an enemy player
+[-] Gas meter starts empty
+[+] Gas meter builds with damage done and/or time
+[-] ##(additive)-to-1 health-to-metal ratio when repairing buildings
+[-] -##(additive) health regenerated per second on wearer
+[+] +##(percentage) damage bonus
+[+] +##(inverted_percentage) bullet damage resistance on wearer
+[+] +##(percentage) faster move speed on wearer
+[+] +##(additive) health regenerated per second on wearer
+[+] Voices From Below
+[+] Pumpkin Bombs
+[+] Halloween Fire
+[+] Exorcism
+[+] Pages of Tumidum: ##(additive)
+[+] Pages of Gratanter: ##(additive)
+[+] Pages of Audere: ##(additive)
+[+] Pages of Congeriae: ##(additive)
+[+] Pages of Veteris: ##(additive)
+[+] Killstreaks Active
+[+] Melee kills refill +##(additive_percentage) of your charge meter.
+[=] ★ Unusual Effect: ##(particle_index)
+[-] ##(inverted_percentage) slower upgrade rate
+[-] Disables double jump
+[+] Third successful punch in a row always crits.
+[=] Festivized
+[+] Deals 300% damage to burning players +50% repressurization rate on hit
+[-] -50% repressurization rate on Alt-Fire
+[=] Uses a shared pressure tank for Primary Fire and Alt-Fire. Primary Fire: Launches a fast-moving projectile that briefly ignites enemies. Alt-Fire: Release a blast of air that pushes enemies and projectiles, and extinguishes teammates that are on fire.
+[+] Mini-crits burning targets and extinguishes them. Damage increases based on remaining duration of afterburn. Killing blows on burning players grant a speed boost.
